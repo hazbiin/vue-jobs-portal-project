@@ -7,3 +7,5 @@
   <Navbar/>
   <RouterView/>
 </template>
+
+<!-- sample change -->
