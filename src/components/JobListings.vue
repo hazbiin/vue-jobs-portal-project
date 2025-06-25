@@ -13,7 +13,6 @@
     });
 
     const jobs = ref(jobData);
-    console.log(jobs.value);
 </script>
 
 <template>
