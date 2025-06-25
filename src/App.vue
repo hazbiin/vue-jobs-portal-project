@@ -8,4 +8,3 @@
   <RouterView/>
 </template>
 
-<!-- sample change -->
