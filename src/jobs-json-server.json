@@ -85,34 +85,6 @@
       }
     },
     {
-      "id": "5995",
-      "type": "Internship",
-      "titile": "Halee Hess",
-      "description": "Nemo consectetur ut ",
-      "salary": "Nemo consectetur ut ",
-      "location": "Eaque commodo et con",
-      "company": {
-        "name": "Joyce and Reed Inc",
-        "description": "Ullam consequuntur n",
-        "contactEmail": "cibure@mailinator.com",
-        "contactPhone": "+1 (406) 828-2856"
-      }
-    },
-    {
-      "id": "5a46",
-      "type": "Internship",
-      "titile": "Sonya Le",
-      "description": "Quas eos voluptas an",
-      "salary": "Quas eos voluptas an",
-      "location": "Sint a veritatis es",
-      "company": {
-        "name": "Hansen and Gould Associates",
-        "description": "Sed possimus magnam",
-        "contactEmail": "hakiqed@mailinator.com",
-        "contactPhone": "+1 (276) 933-8178"
-      }
-    },
-    {
       "id": "395c",
       "type": "Full-Time",
       "titile": "Yael Woodward",
