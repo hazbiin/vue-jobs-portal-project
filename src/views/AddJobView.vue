@@ -6,7 +6,7 @@
 
     const form = reactive({
         type: 'Full-Time',
-        titile: '',
+        title: '',
         description: '',
         salary: '',
         location: '',
@@ -23,7 +23,7 @@
     const handleSubmit = async() => {
         const newJob = {
             type: form.type,
-            titile: form.titile,
+            title: form.title,
             description: form.description,
             salary: form.description,
             location: form.location,
@@ -79,7 +79,7 @@
               >
               <input
                 type="text"
-                v-model="form.titile"
+                v-model="form.title"
                 id="name"
                 name="name"
                 class="border rounded w-full py-2 px-3 mb-2"
