@@ -125,6 +125,20 @@
         "contactEmail": "molasaxa@mailinator.com",
         "contactPhone": "+1 (945) 574-4781"
       }
+    },
+    {
+      "id": "e6ba",
+      "type": "Internship",
+      "titile": "Vue Senior developer",
+      "description": "Voluptatem aspernatu",
+      "salary": "Voluptatem aspernatu",
+      "location": "Blanditiis rerum acc",
+      "company": {
+        "name": "Patrick Terrell Trading",
+        "description": "Deserunt porro repre",
+        "contactEmail": "saroli@mailinator.com",
+        "contactPhone": "+1 (897) 731-7096"
+      }
     }
   ]
 }
